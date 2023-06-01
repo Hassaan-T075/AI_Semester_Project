@@ -1,6 +1,4 @@
-# AI_Term_Project
-
-Clustering Customer Data for Behavior Analysis
+# Clustering Customer Data for Behavior Analysis
 
 Introduction:
 This project focuses on clustering customer data to identify distinct groups with similar behaviors. By employing K-means clustering and Agglomerative clustering algorithms, this solution aims to provide valuable insights into customer segmentation and behavior analysis. The project includes data preprocessing, model building, evaluation, and deployment using Python and Streamlit.
