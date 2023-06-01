@@ -12,4 +12,4 @@ This project focuses on clustering customer data to identify distinct groups wit
 - Model Evaluation: Visualize clusters and customer data to assess performance. Evaluate cluster validity using metrics like the Silhouette Score and Rand Index.
 - Deployment: Save the final trained models and develop an interactive web application using Streamlit. The application accepts customer data as input and outputs cluster assignments for each customer.
 
-# Website: https://burhan3737-clustering-code-project-z5xmob.streamlit.app/
+Website: https://burhan3737-clustering-code-project-z5xmob.streamlit.app/
